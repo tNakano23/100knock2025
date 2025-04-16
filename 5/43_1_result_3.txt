@@ -1,0 +1,151 @@
+D	D	True
+C	C	True
+C	A
+D	D	True
+D	D	True
+D	D	True
+C	C	True
+A	A	True
+D	D	True
+A	A	True
+B	B	True
+A	A	True
+D	D	True
+A	B
+D	D	True
+D	D	True
+D	D	True
+B	B	True
+C	C	True
+C	C	True
+D	D	True
+D	D	True
+D	D	True
+B	B	True
+A	A	True
+B	B	True
+A	B
+C	C	True
+A	A	True
+A	A	True
+D	D	True
+C	C	True
+D	D	True
+B	B	True
+B	C
+A	C
+C	C	True
+D	D	True
+D	D	True
+A	A	True
+A	B
+B	B	True
+B	B	True
+D	D	True
+C	D
+A	A	True
+C	A
+D	D	True
+B	B	True
+A	A	True
+D	D	True
+B	B	True
+D	C
+D	D	True
+D	C
+A	A	True
+D	D	True
+D	D	True
+C	A
+A	D
+B	B	True
+C	C	True
+D	D	True
+B	B	True
+C	C	True
+D	D	True
+B	B	True
+C	C	True
+C	C	True
+B	B	True
+A	A	True
+D	D	True
+C	C	True
+C	C	True
+B	B	True
+D	D	True
+D	D	True
+A	A	True
+A	D
+D	A
+B	B	True
+B	B	True
+C	C	True
+D	D	True
+C	C	True
+B	B	True
+D	D	True
+C	C	True
+C	C	True
+C	C	True
+C	D
+C	C	True
+C	C	True
+D	D	True
+D	D	True
+D	D	True
+D	D	True
+B	B	True
+C	C	True
+C	C	True
+C	C	True
+B	B	True
+D	D	True
+A	A	True
+D	D	True
+A	A	True
+D	D	True
+C	C	True
+B	B	True
+C	C	True
+B	B	True
+D	D	True
+B	B	True
+B	B	True
+D	D	True
+C	C	True
+C	C	True
+D	D	True
+C	C	True
+D	D	True
+D	D	True
+A	A	True
+C	C	True
+B	B	True
+B	D
+D	D	True
+C	C	True
+D	D	True
+D	D	True
+C	C	True
+D	D	True
+C	C	True
+B	B	True
+B	B	True
+B	C
+D	D	True
+C	C	True
+B	B	True
+D	D	True
+D	D	True
+A	A	True
+B	B	True
+B	A
+B	B	True
+D	D	True
+C	C	True
+D	D	True
+B	C
+A	A	True
+C	C	True
+accuracy:0.8733333333333333
